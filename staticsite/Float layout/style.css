@@ -1,0 +1,124 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background-color: #dddddd;
+}
+
+.container{
+	max-width: 1140px;
+	background-color: #ffffff;
+	height: auto;
+	margin: 20px auto;
+	padding:20px;
+}
+
+h1{
+	font-size: 30px;
+	margin: 0;
+}
+
+nav{
+	float: left;
+	width: 100%;
+	background-color: #dddddd;
+	text-align: center;
+	padding: 30px 15px;
+	margin-bottom: 20px;
+}
+
+header{
+	float: left;
+	width: 100%;
+	background-color: #dddddd;
+	text-align: center;
+	padding: 130px 15px;
+	margin-bottom: 20px;
+}
+
+.section1{
+	float: left;
+	width: 100%;
+	background-color: #dddddd;
+	text-align: center;
+	padding: 50px 15px;
+	margin-bottom: 20px;
+}
+
+.section1 .content{
+	float: left;
+	width: 100%;
+	margin-top:60px;
+}
+
+
+.section1 .content .card{
+	width: 25%;
+	float: left;
+	padding: 0px 10px;
+}
+
+.box{
+	background-color: grey;
+	font-size: 30px;
+	padding: 60px 15px;
+}
+
+.section2{
+	float: left;
+	width: 100%;
+	background-color: #dddddd;
+	text-align: center;
+	padding: 50px 15px;
+	margin-bottom: 20px;
+}
+
+.section2 .content{
+	margin-top: 60px;
+	float: left;
+	width: 100%;
+}
+
+.section2 .content .left{
+	width: 50%;
+	float: left;
+	padding: 0px 10px;
+}
+
+.section2 .content .left .card{
+	background-color: grey;
+	padding: 200px 15px;
+	color:#fff;
+}
+
+.section2 .content .right{
+	width: 50%;
+	float: left;
+	padding: 0px 10px;
+
+}
+
+.section2 .content .right .card{
+	background-color: grey;
+	padding: 53px 15px;
+	color:#fff;
+	margin-bottom: 20px;
+}
+
+footer{
+	float: left;
+	width: 100%;
+	background-color: #dddddd;
+	text-align: center;
+	padding: 50px 15px;
+	margin-bottom: 20px;
+}
+
+
+.clear{
+	clear:both;
+}
+

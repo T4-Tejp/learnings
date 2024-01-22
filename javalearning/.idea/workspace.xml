@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c30b348-73ba-49f2-bc92-d7673558e7d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../basic-node/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-node/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-node/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-node/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/config/db.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/config/db.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/controller/blog.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/controller/blog.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/controller/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/controller/user.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/model/blog.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/model/blog.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/model/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/model/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/model/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/model/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/router/blog.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/router/blog.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/router/category.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/router/category.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/router/user.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/router/user.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/app/service/blog.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/app/service/blog.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-orm/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node-orm/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/config/db.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/config/db.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/config/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/config/dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/controllers/other.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/controllers/other.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/controllers/student.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/controllers/student.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/controllers/student/student-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/controllers/student/student-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/controllers/tutorial.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/controllers/tutorial.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/helper/imgToPdf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/helper/imgToPdf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/i18n.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/i18n.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/lang/english.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/lang/english.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/lang/hindi.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/lang/hindi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/lib/responseHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/lib/responseHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/load_balancer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/load_balancer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/locales/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/locales/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/locales/hi.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/locales/hi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/locales/uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/locales/uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/migrations/20230905092838-add-users.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/migrations/20230905092838-add-users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/migrations/20230905100617-add-users-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/migrations/20230905100617-add-users-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/models/MySqlQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/models/MySqlQuery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/models/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/models/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/models/studentModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/models/studentModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/models/tutorialModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/models/tutorialModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/routes/other.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/routes/other.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/routes/sclass.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/routes/sclass.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/routes/tutorial.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/routes/tutorial.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/scripts/multilanguage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/scripts/multilanguage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/scripts/myfile.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/scripts/myfile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/scripts/myscript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/scripts/myscript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/scripts/restOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/scripts/restOperator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/swagger.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/swagger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/swagger.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/swagger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/swagger_auto.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/swagger_auto.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776628761-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776628761-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776628761-img.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776628761-img.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776628761-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776628761-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776908474-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776908474-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776908474-img.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776908474-img.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776908474-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776908474-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776942631-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776942631-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776942631-img.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776942631-img.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776942631-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776942631-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776982541-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776982541-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776982541-img.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776982541-img.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nodesql/uploads/1694776982541-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesql/uploads/1694776982541-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navbasic/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navbasic/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navbasic/navbar-basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navbasic/navbar-basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navbasic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navbasic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navresponsive/close-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navresponsive/close-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navresponsive/laptop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navresponsive/laptop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navresponsive/menu-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navresponsive/menu-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navresponsive/navbar-responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navresponsive/navbar-responsive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staticsite/navresponsive/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../staticsite/navresponsive/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/applications/banking-system.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/applications/banking-system.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/applications/basicoops.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/applications/basicoops.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/applications/meeting-planner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/applications/meeting-planner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/applications/meeting-scheduler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/applications/meeting-scheduler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/applications/ride-share.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/applications/ride-share.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/scripts/myts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/scripts/myts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/scripts/myts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/scripts/myts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/scripts/script1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/scripts/script1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../system-design/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../system-design/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bJ0O89yjfFPYxUKjsFxvnYfbJG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tejp/Desktop/learnings/javalearning&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c30b348-73ba-49f2-bc92-d7673558e7d5" name="Changes" comment="" />
+      <created>1705917840962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705917840962</updated>
+    </task>
+    <servers />
+  </component>
+</project>
