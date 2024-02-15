@@ -3,6 +3,8 @@ package com.crudapplication.basic.entity;
 import jakarta.persistence.*;
 
 @Entity
+
+@Table(name="students") //if it was not defined then it will autocreate as  student_entity
 public class StudentEntity {
 	@Id
 	private int rollNo;
